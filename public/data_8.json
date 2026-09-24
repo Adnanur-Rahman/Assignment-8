@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://i.ibb.co.com/938vtPFF/Photo-Editor-Pro.png",
+    "title": "Photo Editor Pro",
+    "companyName": "PixelCraft",
+    "id": 1,
+    "description": "Photo Editor Pro is a powerful and easy-to-use image editing application designed for users who want to enhance their photos without needing professional editing experience. It provides a wide collection of editing tools for adjusting brightness, contrast, saturation, sharpness, exposure, and colors. Users can crop, rotate, resize, and fine-tune images before sharing them with friends or publishing them online. The app also includes creative filters, artistic effects, frames, and adjustment options that help transform ordinary pictures into visually appealing images. Its simple interface makes navigation comfortable for both beginners and experienced users. Whether you are editing social media photos, personal memories, product pictures, or everyday snapshots, Photo Editor Pro provides a convenient collection of tools in one application.",
+    "size": 42,
+    "reviews": 1250,
+    "ratingAvg": 4.7,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TNgNvPw/Task-Flow-app.jpg",
+    "title": "TaskFlow",
+    "companyName": "WorkSmart",
+    "id": 2,
+    "description": "TaskFlow is a productivity application designed to help users organize tasks, manage priorities, and keep track of their daily responsibilities. The app provides a straightforward workspace where users can create tasks, add descriptions, set deadlines, and organize activities according to different categories. Its clean design makes it easier to understand what needs to be completed and when it should be finished. TaskFlow can be useful for personal planning, study schedules, work projects, household responsibilities, and long-term goals. Users can break larger projects into smaller actionable tasks so that complicated workloads become easier to manage. By keeping important activities in one organized place, TaskFlow helps users maintain a consistent workflow and avoid forgetting important responsibilities throughout the day.",
+    "size": 28,
+    "reviews": 980,
+    "ratingAvg": 4.5,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 550 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KpLQDVvg/Music-Box.jpg",
+    "title": "MusicBox",
+    "companyName": "SoundWave",
+    "id": 3,
+    "description": "MusicBox is a modern music application created for listeners who want an organized and enjoyable way to explore and manage their favorite audio content. The app provides a convenient environment for discovering songs, creating playlists, organizing favorite tracks, and listening to music throughout the day. Users can arrange music according to mood, genre, activity, or personal preference, making it easier to access frequently played tracks. The interface is designed to keep important playback controls easy to reach while providing a comfortable browsing experience. MusicBox can be useful during workouts, study sessions, travel, relaxation, or casual listening at home. With support for personal playlists and organized music collections, the application provides a flexible experience for users who enjoy keeping their favorite music accessible.",
+    "size": 65,
+    "reviews": 2150,
+    "ratingAvg": 4.6,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 55 },
+      { "name": "2 star", "count": 75 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/QFN2mfN0/Note-Space.jpg",
+    "title": "NoteSpace",
+    "companyName": "BrightApps",
+    "id": 4,
+    "description": "NoteSpace is a flexible note-taking application designed for people who want to quickly capture ideas, reminders, lists, and important information. The application provides a clean writing environment where users can create and organize notes without unnecessary complexity. It can be used for classroom notes, meeting information, shopping lists, personal ideas, project planning, or everyday reminders. Users can maintain multiple notes and keep different types of information organized in one convenient location. The simple interface makes it easy to open existing notes and create new ones whenever inspiration or an important thought appears. NoteSpace is designed to support both quick notes and longer pieces of written information, making it a practical choice for students, professionals, creators, and anyone who regularly needs a digital place to store information.",
+    "size": 18,
+    "reviews": 760,
+    "ratingAvg": 4.4,
+    "downloads": 620000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 95 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vCjfCHfd/Weather-Now.png",
+    "title": "WeatherNow",
+    "companyName": "SkyTech",
+    "id": 5,
+    "description": "WeatherNow is a weather information application designed to give users a convenient overview of current conditions and upcoming forecasts. The app presents important weather information in an easy-to-understand format so users can quickly check conditions before planning their day. It can be useful when preparing for work, school, outdoor activities, travel, sports, or weekend plans. WeatherNow focuses on making weather information accessible without requiring users to navigate through complicated menus. Users can check temperatures, general conditions, and forecast information to help them understand how the weather may change during the day. The application is designed for everyday use and provides a practical way to keep weather information available whenever it is needed, whether users are staying at home or preparing to go outside.",
+    "size": 24,
+    "reviews": 1340,
+    "ratingAvg": 4.3,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Ps8XQXRD/Fit-Track.png",
+    "title": "FitTrack",
+    "companyName": "HealthWorks",
+    "id": 6,
+    "description": "FitTrack is a fitness tracking application designed to help users monitor daily activity and maintain consistent exercise habits. The app provides a convenient place to keep track of fitness-related information and review personal progress over time. It can be used by people who are beginning a new exercise routine as well as users who already have established fitness goals. FitTrack encourages users to stay aware of their daily movement, workouts, and progress through an organized interface. Users can use the application to maintain a more consistent routine and understand how their activities develop over time. Whether the goal is improving general activity, following a workout schedule, or simply becoming more aware of daily movement, FitTrack provides practical tools for keeping fitness information organized and accessible.",
+    "size": 35,
+    "reviews": 1120,
+    "ratingAvg": 4.6,
+    "downloads": 1750000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FbDWPdgX/Travel-Mate.png",
+    "title": "TravelMate",
+    "companyName": "WanderLabs",
+    "id": 7,
+    "description": "TravelMate is a travel planning application designed to help users organize important information for trips and vacations. The app provides a convenient space for keeping travel plans, destinations, schedules, and other useful details together. Instead of managing travel information across multiple notes and applications, users can use TravelMate as a central place for organizing their plans. It can be useful for short weekend trips, family vacations, business travel, or longer journeys involving multiple destinations. The application is designed to make trip preparation more organized and reduce the chance of forgetting important details. Users can review their plans before and during a trip, making it easier to keep track of activities and travel information. TravelMate is suitable for both occasional travelers and people who frequently plan new adventures.",
+    "size": 31,
+    "reviews": 890,
+    "ratingAvg": 4.5,
+    "downloads": 940000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 85 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 550 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0yCYyRdh/Cloud-Drive.jpg",
+    "title": "CloudDrive",
+    "companyName": "DataCloud",
+    "id": 8,
+    "description": "CloudDrive is a cloud storage application designed to help users organize, store, and access digital files from a convenient central location. It can be used for documents, images, videos, project files, and other important digital content that users want to keep organized. The application provides a practical way to maintain access to files without depending entirely on local device storage. CloudDrive is useful for students managing school documents, professionals working with project files, and everyday users who want to keep personal files organized. Its straightforward structure makes it easier to browse stored content and locate important files when needed. By providing a dedicated space for digital storage, CloudDrive can help users maintain a more organized file collection and make important information easier to access across their everyday workflows.",
+    "size": 52,
+    "reviews": 1680,
+    "ratingAvg": 4.4,
+    "downloads": 2850000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 165 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  }
+]

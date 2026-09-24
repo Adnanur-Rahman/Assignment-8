@@ -4,15 +4,16 @@ import Container from "./Container";
 import { FaGithub } from "react-icons/fa6";
 import logoImage from "../images/logo.png"
 const Navbar = () => {
+  
 
     return (
-        <div className=" bg-purple-100 shadow-md border-b-[0.5px] border-gray-300">
+        <div className=" shadow-md border-b-[0.5px] border-gray-300">
       <Container>
       <nav className="px-4 flex justify-between items-center flex-1 md:px-8 py-4">
 <Link to="/">
     <div className="flex gap-2 items-center">
       <span><img className="h-10" src={logoImage}alt="logo image"/></span>
-          <h1 className=" text-xl font-bold">HERO.IO</h1>
+          <h1 className=" text-xl font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2]  bg-clip-text text-transparent">HERO.IO</h1>
 
     </div>
 </Link>
