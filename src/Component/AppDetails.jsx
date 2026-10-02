@@ -32,9 +32,9 @@ const handleInstall=()=>{
 };
     
     return (
-        <div>
+        <div className='px-5'>
         <Container>
-              <div className="my-5">
+              <div className="my-5 ">
   <div className="flex flex-col items-center gap-10 lg:flex-row lg:items-start">
     <img
       alt={title}
