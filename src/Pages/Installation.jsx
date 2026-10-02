@@ -45,13 +45,12 @@ setInstalled(sortedByDes);
        </div>
         <div className='flex justify-between items-center p-4'>
         <h3 className='font-bold '>{installed.length} Apps Found</h3>
-       <details className="dropdown">
-  <summary className="btn m-1">Sort By:{ sort?sort : ""}</summary>
-  <ul className="menu dropdown-content bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
-    <li className='font-bold'><button  onClick={()=>handleSort("Low -> High")}>Low &rarr; High</button></li>
-    <li className='font-bold'><button  onClick={()=>handleSort("High -> Low")}>Low &rarr; High</button></li>
-  </ul>
-</details>
+
+<select className="select select-bordered" value={sort} onChange={(e) => handleSort(e.target.value)} >
+   <option value="">Sort By</option> 
+   <option value="Low -> High">Low → High</option>
+    <option value="High -> Low">High → Low</option>
+     </select>
        </div >
 <div className=''>
        {

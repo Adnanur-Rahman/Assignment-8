@@ -12,3 +12,6 @@ a.active{
 a{
   @apply font-medium
 }
+select {
+  @apply font-bold
+}
