@@ -10,7 +10,7 @@ import {
 
 const Footer = () => {
   return (
-    <footer className="bg-[#0b0f19] text-gray-400">
+    <footer className="px-5 bg-[#0b0f19] text-gray-400">
       <Container>
         <div className="py-12 border-b border-gray-800">
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-8">
